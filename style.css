@@ -1,0 +1,40 @@
+img{
+    width: 274px;
+    height: 375px;
+    display: block;
+    margin: auto;
+    padding-bottom: 16px;
+}
+h1{
+    background-color: rgb(224, 224, 224);
+    text-align: center;
+}
+section{
+    background-color: darkgrey;
+    padding: px;
+    border: 0.25em solid;
+font-size: 20px;
+letter-spacing: 2px;
+    border-color: black;
+    padding-left: 16px;
+}
+body{
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(189, 189, 189);
+width: 98%;
+padding-left: 8px;
+}
+h1,h2{
+    text-transform: uppercase;
+}
+a:hover{
+background-color: rgb(167, 167, 167);
+color: whitesmoke;
+transition: all;
+
+}
+header{
+margin: 0%;
+    font-size: large;
+}
