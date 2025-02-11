@@ -1,9 +1,11 @@
 img{
-    width: 274px;
+    border: 2px solid ;
+    width: 294px;
     height: 375px;
-    display: block;
-    margin: auto;
-    padding-bottom: 16px;
+ padding-bottom: 16px;
+ padding: 32px;
+ margin: 2.5%;
+ background-color: white;
 }
 h1{
     background-color: rgb(224, 224, 224);
